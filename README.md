@@ -11,6 +11,9 @@
 ![Alt text](image-2.png)
 
 ## PASSAGGIO 4
+### Attivare un SQL launcher (MAMP o PHP launcher)
+
+## PASSAGGIO 5
 ### MODIFICARE IL FILE POM INSERENDO
 
 ```
@@ -35,7 +38,7 @@
 </project> -->
 ```
 
-## PASSAGGIO 5
+## PASSAGGIO 6
 ### CREARE LA CLASSE MAIN E INSERIRE
 
 ```
